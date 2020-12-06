@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968707800309",
+    "firebase_url": "https://cupang-laundry-6ee64.firebaseio.com",
+    "project_id": "cupang-laundry-6ee64",
+    "storage_bucket": "cupang-laundry-6ee64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968707800309:android:9f50b24fae73d161c6d9bc",
+        "android_client_info": {
+          "package_name": "com.laundry.laundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968707800309-q4dqpft9fk43vg0sei48eh0pd2p6hft6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laundry.laundry",
+            "certificate_hash": "f7f7e8df6212461fc5fcfa675cb158cb4d91cc68"
+          }
+        },
+        {
+          "client_id": "968707800309-eem5iar9057ge4spd1iegkis0u81l2ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA5DOAY42DnGr5R-oTUSGkll68e88fPs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968707800309-eem5iar9057ge4spd1iegkis0u81l2ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_local_laundry_service_24"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_setrika"
+            android:icon="@drawable/ic_setrika"
+            android:title="Setrika" />
+
+        <item
+            android:id="@+id/nav_sepatu"
+            android:icon="@drawable/ic_sepatu"
+            android:title="Sepatu" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/ic_baseline_info_24"
+            android:title="@string/menu_aboutus" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_account_circle_24"
+            android:title="@string/menu_profile" />
+    </group>
+</menu>
